@@ -6,7 +6,7 @@ haina@login.htcf.wustl.edu
 ```
 for analysis storage:
 ```bash
-cd Its/mtlab/baldridge1/ANALYSIS/haina
+cd lts/mtblab/baldridge1/ANALYSIS/haina
 ```
 for scratch:
 ```bash
@@ -14,5 +14,5 @@ cd /scratch/mtblab/haina
 ```
 for sequence storage:
 ```bash
-cd Its/mtlab/baldridge1/PERMANENT_FILE_STORAGE
+cd lts/mtblab/baldridge1/PERMANENT_FILE_STORAGE
 ```
